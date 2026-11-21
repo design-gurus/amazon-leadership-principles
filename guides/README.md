@@ -17,3 +17,4 @@ A reasonable order for a first reading is the loop, the STAR method, and the sto
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-readme): the full course behind these guides, with worked answers, flashcards, and assessments.
+- Free answer: [Amazon interview rating scale explained](https://www.designgurus.io/answers/detail/what-is-the-amazon-interview-rating?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-readme), how interviewers record a recommendation.

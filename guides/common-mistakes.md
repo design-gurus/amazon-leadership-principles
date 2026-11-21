@@ -39,3 +39,5 @@ Interviewers record what the candidate says and submit written feedback under ea
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-common-mistakes): every question in the course shows a weak answer beside a strong one, with the reason for the difference.
 - [The STAR method](star-method.md): the structure that prevents mistakes 1 to 3.
+- Free answer: [What are the top mistakes to avoid in behavioral tech interviews?](https://www.designgurus.io/answers/detail/what-are-the-top-mistakes-to-avoid-in-behavioral-tech-interviews?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-common-mistakes), a wider list that applies at any company.
+- Free answer: [What not to say in a behavioral interview](https://www.designgurus.io/answers/detail/what-not-to-say-in-a-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-common-mistakes), statements that weaken an answer.

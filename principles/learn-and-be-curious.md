@@ -38,3 +38,4 @@ Learn and Be Curious means continuing to learn throughout a career and exploring
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-learn-and-be-curious): worked answers and practice for every principle.
 - [Building a story bank](../guides/story-bank.md): where a learning story fits among your other stories.
+- Free answer: [What is a good failure story for an interview?](https://www.designgurus.io/answers/detail/what-is-a-good-failure-story-for-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-learn-and-be-curious), for the question about learning from a failure.

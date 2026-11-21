@@ -81,6 +81,17 @@ Yes. A real project usually provides evidence for four or five principles, and t
 
 Yes. Every role is interviewed against them, including software engineers at every level. Engineering interviews commonly combine a coding or design problem with one or two behavioral questions in the same hour, so the principles are examined in almost every session.
 
+## Free reading on DesignGurus.io
+
+- Free article: [Amazon interview guide: process, questions, and how to prepare](https://www.designgurus.io/blog/amazon-interview-guide?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): the whole process from application to offer.
+- Free article: [Amazon behavioral interview questions](https://www.designgurus.io/blog/amazon-behavioral-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): common questions with guidance on answering them.
+- Free article: [How to craft compelling behavioral interview stories](https://www.designgurus.io/blog/how-to-craft-compelling-behavioral-interview-stories?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): how to choose and shape each story.
+- Free article: [Mastering the "Why Amazon?" question](https://www.designgurus.io/blog/master-why-amazon-question-for-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): how to answer the motivation question.
+- Free article: [Amazon SDE levels explained](https://www.designgurus.io/blog/amazon-sde-levels?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): the engineering levels from SDE I to Principal Engineer.
+- Free answer: [What is the Amazon Bar Raiser?](https://www.designgurus.io/answers/detail/what-is-the-amazon-bar-raiser?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): the interviewer from outside the hiring team.
+- Free answer: [Amazon interview rating scale explained](https://www.designgurus.io/answers/detail/what-is-the-amazon-interview-rating?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): how interviewers record a recommendation.
+- Free answer: [Why does Amazon use the STAR method?](https://www.designgurus.io/answers/detail/why-does-amazon-use-the-star-method?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): the reason Amazon asks for this structure.
+
 ## Go deeper
 
 This repository is a summary. The full preparation is in the courses below.

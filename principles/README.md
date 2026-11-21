@@ -27,3 +27,4 @@ The official wording of every principle is on [Amazon's Leadership Principles pa
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-readme): the full course, with a chapter on mapping stories to these principles.
 - [Building a story bank](../guides/story-bank.md): how to cover all 16 principles with 8 to 10 stories.
+- Free answer: [Why does Amazon use behavior-based interview questions?](https://www.designgurus.io/answers/detail/why-does-amazon-use-behavior-based-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-readme), the reasoning behind questions about past actions.

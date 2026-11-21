@@ -48,3 +48,4 @@ Expect questions about hiring, underperformance, team health, and delivery throu
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-principles-by-role): the full behavioral course, with chapters on company frameworks and on answering as a manager.
 - [Building a story bank](story-bank.md): map your stories to the principles emphasized for your role.
+- Free article: [Amazon SDE levels explained](https://www.designgurus.io/blog/amazon-sde-levels?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-principles-by-role), the engineering levels from SDE I to Principal Engineer.

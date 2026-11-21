@@ -38,3 +38,4 @@ Earn Trust means being honest, listening carefully, and admitting one's own mist
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-earn-trust): failure and conflict questions answered in full, with follow-ups.
 - [Common mistakes](../guides/common-mistakes.md): why a failure story with no cost does not count.
+- Free answer: [Tips for discussing failures in behavioral interviews](https://www.designgurus.io/answers/detail/what-are-the-tips-for-discussing-failures-in-behavioral-interviews?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-earn-trust), how to admit a mistake and show what changed.
