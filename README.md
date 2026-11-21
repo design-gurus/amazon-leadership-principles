@@ -1,0 +1,101 @@
+# Amazon Leadership Principles: Interview Guide
+
+> The free, open companion to **Grokking Modern Behavioral Interview** by [DesignGurus.io](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme), created by Arslan Ahmad.
+
+[![GitHub stars](https://img.shields.io/github/stars/design-gurus/amazon-leadership-principles?style=social)](https://github.com/design-gurus/amazon-leadership-principles/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/design-gurus/amazon-leadership-principles)](https://github.com/design-gurus/amazon-leadership-principles/commits/main)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+Amazon runs its behavioral interviews against 16 named Leadership Principles. Almost every behavioral question in an Amazon interview is chosen to produce evidence for one of them, and each interviewer writes down what the candidate said under the principles they were assigned. A candidate who knows what evidence each principle requires can prepare a small set of true stories and cover the whole interview.
+
+This repository explains each principle in plain words, lists the questions asked for it, and shows what separates a weak answer from a strong one. It is an independent guide and is not affiliated with Amazon. The principles themselves come from [Amazon's official Leadership Principles page](https://www.amazon.jobs/content/en/our-workplace/leadership-principles), which remains the source for their exact wording.
+
+## The 16 Leadership Principles
+
+| Principle | What it means in plain words | A question you may hear |
+|-----------|------------------------------|-------------------------|
+| [Customer Obsession](principles/customer-obsession.md) | Start from the customer's problem, not from the technology | "Tell me about a time you changed a plan because of customer feedback." |
+| [Ownership](principles/ownership.md) | Act on a problem even when it is outside your assignment | "Tell me about a time you took on something outside your responsibilities." |
+| [Invent and Simplify](principles/invent-and-simplify.md) | Find a new approach, and remove what is not needed | "Tell me about a time you made something simpler." |
+| [Are Right, A Lot](principles/are-right-a-lot.md) | Show sound judgment with incomplete information | "Tell me about a decision you made without all the data." |
+| [Learn and Be Curious](principles/learn-and-be-curious.md) | Learn a new skill because the work requires it | "Tell me about something you had to learn quickly." |
+| [Hire and Develop the Best](principles/hire-and-develop-the-best.md) | Make another person measurably better at their work | "Tell me about someone you mentored." |
+| [Insist on the Highest Standards](principles/insist-on-the-highest-standards.md) | Refuse to ship work that is below the standard | "Tell me about a time you were not satisfied with the quality of something." |
+| [Think Big](principles/think-big.md) | Propose something larger than the request | "Tell me about a time you proposed a bold idea." |
+| [Bias for Action](principles/bias-for-action.md) | Move quickly when a decision can be reversed | "Tell me about a time you acted without waiting for approval." |
+| [Frugality](principles/frugality.md) | Reach the result inside a tight limit on people, money, or time | "Tell me about a time you delivered with limited resources." |
+| [Earn Trust](principles/earn-trust.md) | Be honest about mistakes and accept criticism | "Tell me about a mistake you made." |
+| [Dive Deep](principles/dive-deep.md) | Check the details yourself instead of trusting a summary | "Tell me about a time the data did not match what you were told." |
+| [Have Backbone; Disagree and Commit](principles/have-backbone-disagree-and-commit.md) | Disagree openly with a senior person, then support the final decision | "Tell me about a time you disagreed with your manager." |
+| [Deliver Results](principles/deliver-results.md) | Finish the work, and state the outcome as a number | "Tell me about a goal you nearly missed." |
+| [Strive to be Earth's Best Employer](principles/strive-to-be-earths-best-employer.md) | Improve how the team works, not only what it produces | "Tell me about a time you improved your team's working conditions." |
+| [Success and Scale Bring Broad Responsibility](principles/success-and-scale-bring-broad-responsibility.md) | Consider the effect of your work beyond the direct user | "Tell me about a time you considered a wider effect of your work." |
+
+Amazon added the last two principles later than the first 14. They are asked less often than the others, and more often of senior candidates.
+
+## Start here
+
+| Your situation | Read this |
+|----------------|-----------|
+| The interview is tomorrow | [One-page cheat sheet](guides/one-page-cheat-sheet.md) |
+| You have a week and no stories written | [Building a story bank](guides/story-bank.md), then [The STAR method](guides/star-method.md) |
+| You want to know how the interview day is run | [How the Amazon loop works](guides/how-the-amazon-loop-works.md) |
+| You want practice questions | [Question bank](guides/question-bank.md) |
+
+## Guides
+
+| Page | What it covers |
+|------|----------------|
+| [How the Amazon loop works](guides/how-the-amazon-loop-works.md) | The interview day, assigned principles, the Bar Raiser, and the debrief |
+| [The STAR method](guides/star-method.md) | The four-part answer format, and why the Result needs a number |
+| [Building a story bank](guides/story-bank.md) | How to prepare 8 to 10 stories and map them onto the 16 principles |
+| [Question bank](guides/question-bank.md) | More than 90 questions, grouped by principle |
+| [Principles by role](guides/principles-by-role.md) | Which principles are emphasized for engineers, senior engineers, and managers |
+| [Common mistakes](guides/common-mistakes.md) | Ten mistakes that weaken an answer, and the correction for each |
+| [One-page cheat sheet](guides/one-page-cheat-sheet.md) | All 16 principles, the required evidence, and a final checklist |
+
+## FAQ
+
+### How many Amazon Leadership Principles are there?
+
+There are 16. The list had 14 for many years, and Amazon later added Strive to be Earth's Best Employer and Success and Scale Bring Broad Responsibility. Older articles that mention 14 principles were written before that change.
+
+### Which Leadership Principles are asked most in interviews?
+
+Candidates most often report questions on Customer Obsession, Ownership, Deliver Results, Dive Deep, Earn Trust, Bias for Action, and Have Backbone; Disagree and Commit. No official ranking exists, so prepare evidence for all 16 and prepare these seven most thoroughly. The [principles by role](guides/principles-by-role.md) page explains how the emphasis changes with the position.
+
+### What is a Bar Raiser?
+
+A Bar Raiser is an interviewer from outside the hiring team who has been trained for the role. This person is commonly reported to hold a veto over the hiring decision. The purpose is to keep an urgent hiring need from lowering the standard. The [loop guide](guides/how-the-amazon-loop-works.md) describes the role in more detail.
+
+### How many stories do I need for an Amazon interview?
+
+Prepare 8 to 10 stories, and expect 6 or 7 strong ones to answer most of the questions. Writing 16 separate stories, one per principle, produces thin stories that fail under follow-up questions. The [story bank guide](guides/story-bank.md) shows how to map a small set of stories onto all 16 principles.
+
+### Can one story cover two principles?
+
+Yes. A real project usually provides evidence for four or five principles, and the emphasis changes with the question. Avoid telling the same story to two interviewers, because they compare notes after the interviews.
+
+### Do the Leadership Principles apply to software engineers?
+
+Yes. Every role is interviewed against them, including software engineers at every level. Engineering interviews commonly combine a coding or design problem with one or two behavioral questions in the same hour, so the principles are examined in almost every session.
+
+## Go deeper
+
+This repository is a summary. The full preparation is in the courses below.
+
+- [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): the complete behavioral course, with a Company Frameworks chapter on Amazon, worked answers, and practice questions.
+- [Amazon Leadership Principles for the behavioral interview](https://www.designgurus.io/blog/amazon-leadership-principles-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): the Design Gurus blog guide to the principles.
+- [Grokking the Amazon Coding Interview](https://www.designgurus.io/course/grokking-amazon-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): preparation for the coding rounds.
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=readme): preparation for the design round.
+
+Related free repositories: [Grokking System Design](https://github.com/design-gurus/grokking-system-design), [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview), and [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview).
+
+## Contributing
+
+Corrections and new questions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+
+## License
+
+The content is licensed under [CC BY 4.0](LICENSE). See [NOTICE.md](NOTICE.md) for what the license covers and how to attribute.
