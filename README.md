@@ -115,6 +115,8 @@ This repository is a summary. The full preparation is in the courses below.
 
 Related free repositories: [Grokking System Design](https://github.com/design-gurus/grokking-system-design), [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview), and [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and new questions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
