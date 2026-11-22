@@ -56,6 +56,8 @@ Each of the [16 principle pages](../principles/README.md) contains a sample answ
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-star-method): 30 questions answered in full with STAR, each with a quantified Result and a follow-up question.
+- Lesson: [The STAR method](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/the-star-method?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-star-method), in Grokking Modern Behavioral Interview
+- Lesson: [Structuring Your Response with the STAR Method](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/structuring-your-response-with-the-star-method?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-star-method), in Grokking the Engineering Manager Interview
 - [Common mistakes](common-mistakes.md): the faults that appear most often in STAR answers.
 - Free answer: [Why does Amazon use the STAR method?](https://www.designgurus.io/answers/detail/why-does-amazon-use-the-star-method?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-star-method), the reason Amazon asks for this structure.
 - Free answer: [What is the structure for answering behavioral interview questions?](https://www.designgurus.io/answers/detail/what-is-the-structure-for-answering-behavioral-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-star-method), the same structure outside Amazon.

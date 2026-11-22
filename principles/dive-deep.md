@@ -37,4 +37,5 @@ Dive Deep means staying connected to the details and checking them personally wh
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-dive-deep): worked answers with the follow-up questions interviewers ask.
+- Lesson: [Technical competence and quality questions](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/technical-competence-and-quality-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-dive-deep), in Grokking Modern Behavioral Interview
 - [The STAR method](../guides/star-method.md): how to prepare for follow-up questions.

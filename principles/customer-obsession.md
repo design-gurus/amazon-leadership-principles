@@ -37,4 +37,6 @@ Customer Obsession means that work starts from the customer's problem and is jud
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-customer-obsession): worked Amazon answers with follow-up questions.
+- Lesson: [Managing Impossible Customer Demands](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/if-your-customer-makes-an-impossible-demand-what-steps-would-you-take-to-manage-their-request?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-customer-obsession), in Grokking the Engineering Manager Interview
+- Lesson: [Dealing with an Angry or Dissatisfied Customer](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/how-would-you-deal-with-an-angry-or-dissatisfied-customer?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-customer-obsession), in Grokking the Engineering Manager Interview
 - [Question bank](../guides/question-bank.md): every question in this repository, grouped by principle.

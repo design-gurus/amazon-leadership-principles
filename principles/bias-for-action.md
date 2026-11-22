@@ -37,4 +37,6 @@ Bias for Action means moving quickly and accepting a calculated risk when a deci
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-bias-for-action): worked answers and practice for every principle.
+- Lesson: [Initiative and leadership questions](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/initiative-and-leadership-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-bias-for-action), in Grokking Modern Behavioral Interview
+- Lesson: [Problem solving and decision making questions](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/problem-solving-and-decision-making-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-bias-for-action), in Grokking Modern Behavioral Interview
 - [The STAR method](../guides/star-method.md): how to keep a fast-moving story in order.

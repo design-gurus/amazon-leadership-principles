@@ -151,6 +151,7 @@ To practice, choose one question, answer it aloud in about two minutes using the
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-question-bank): 30 of the most common questions answered in full, with weak and strong sample answers and a follow-up for each.
+- Lesson: [Amazon worked answers](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/amazon-worked-answers?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-question-bank), in Grokking Modern Behavioral Interview
 - [Building a story bank](story-bank.md): prepare the stories before practicing the questions.
 - Free article: [Amazon behavioral interview questions](https://www.designgurus.io/blog/amazon-behavioral-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-question-bank), common questions with guidance on answering them.
 - Free answer: [What are the top behavioral interview questions for Amazon?](https://www.designgurus.io/answers/detail/what-are-the-top-behavioral-interview-questions-for-amazon?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-question-bank), a short list to practice first.

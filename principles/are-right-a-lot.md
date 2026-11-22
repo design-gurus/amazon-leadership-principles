@@ -37,4 +37,5 @@ Are Right, A Lot means making sound decisions when the information is incomplete
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-are-right-a-lot): the full behavioral course, including the Amazon chapter.
+- Lesson: [Problem solving and decision making questions](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/problem-solving-and-decision-making-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-are-right-a-lot), in Grokking Modern Behavioral Interview
 - [Grokking Staff Engineer Interview](https://www.designgurus.io/course/grokking-staff-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-are-right-a-lot): technical judgment under uncertainty, for senior and principal candidates.

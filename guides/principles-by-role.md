@@ -47,5 +47,8 @@ Expect questions about hiring, underperformance, team health, and delivery throu
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-principles-by-role): the full behavioral course, with chapters on company frameworks and on answering as a manager.
+- Lesson: [Answering as a manager](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/answering-as-a-manager?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-principles-by-role), in Grokking Modern Behavioral Interview
+- Lesson: [Questions for engineering managers](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/questions-for-engineering-managers?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-principles-by-role), in Grokking Modern Behavioral Interview
+- Lesson: [Questions for product managers](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/questions-for-product-managers?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-principles-by-role), in Grokking Modern Behavioral Interview
 - [Building a story bank](story-bank.md): map your stories to the principles emphasized for your role.
 - Free article: [Amazon SDE levels explained](https://www.designgurus.io/blog/amazon-sde-levels?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-principles-by-role), the engineering levels from SDE I to Principal Engineer.

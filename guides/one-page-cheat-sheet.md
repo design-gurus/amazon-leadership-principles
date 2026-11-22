@@ -56,6 +56,8 @@ These facts are commonly reported and are not official.
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-one-page-cheat-sheet): the full course, with worked Amazon answers, flashcards, and practice assessments.
+- Lesson: [Amazon Leadership Principles](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/amazon-leadership-principles?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-one-page-cheat-sheet), in Grokking Modern Behavioral Interview
+- Lesson: [Mapping your stories to the Leadership Principles](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/mapping-your-stories-to-the-leadership-principles?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-one-page-cheat-sheet), in Grokking Modern Behavioral Interview
 - [Amazon Leadership Principles for the behavioral interview](https://www.designgurus.io/blog/amazon-leadership-principles-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-one-page-cheat-sheet): the Design Gurus blog guide.
 - [Question bank](question-bank.md): 96 questions for practice.
 - Free article: [Amazon behavioral interview questions](https://www.designgurus.io/blog/amazon-behavioral-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-one-page-cheat-sheet), common questions with guidance on answering them.

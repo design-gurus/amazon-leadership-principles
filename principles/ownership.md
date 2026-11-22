@@ -37,4 +37,6 @@ Ownership means acting on a problem because it affects the product or the compan
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-ownership): the full behavioral course, including the Amazon chapter.
+- Lesson: [Initiative and leadership questions](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/initiative-and-leadership-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-ownership), in Grokking Modern Behavioral Interview
+- Lesson: [Dealing with Project Failure](https://www.designgurus.io/course-play/grokking-the-engineering-manager-interview/doc/tell-me-about-a-time-when-the-project-you-worked-on-failed?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-ownership), in Grokking the Engineering Manager Interview
 - [Common mistakes](../guides/common-mistakes.md): why "we" answers fail an Ownership question.

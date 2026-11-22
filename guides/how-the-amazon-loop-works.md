@@ -47,6 +47,8 @@ The interviewers then meet in a debrief, which is the meeting that produces the 
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-how-the-amazon-loop-works): the Company Frameworks chapter covers the Bar Raiser, the written feedback, and three worked Amazon answers.
+- Lesson: [How companies frame the behavioral round](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/how-companies-frame-the-behavioral-round?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-how-the-amazon-loop-works), in Grokking Modern Behavioral Interview
+- Lesson: [Amazon Leadership Principles](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/amazon-leadership-principles?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-how-the-amazon-loop-works), in Grokking Modern Behavioral Interview
 - [Grokking the Amazon Coding Interview](https://www.designgurus.io/course/grokking-amazon-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-how-the-amazon-loop-works): preparation for the coding part of each interview.
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=guides-how-the-amazon-loop-works): preparation for the design interview in the loop.
 - [Building a story bank](story-bank.md): the next step after reading this page.

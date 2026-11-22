@@ -37,4 +37,5 @@ Frugality means achieving more with fewer resources. The principle is not about 
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-frugality): the full behavioral course, including the Amazon chapter.
+- Lesson: [Managing constraints and setbacks questions](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/managing-constraints-and-setbacks-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-frugality), in Grokking Modern Behavioral Interview
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-frugality): cost is also examined in the design round.

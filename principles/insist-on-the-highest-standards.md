@@ -37,4 +37,5 @@ Insist on the Highest Standards means holding work to a quality level that other
 ## Go deeper
 
 - [Grokking Modern Behavioral Interview](https://www.designgurus.io/course/grokking-behavioral-interview?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-insist-on-the-highest-standards): worked answers and practice for every principle.
+- Lesson: [Technical competence and quality questions](https://www.designgurus.io/course-play/grokking-behavioral-interview/doc/technical-competence-and-quality-questions?utm_source=github&utm_medium=repo&utm_campaign=amazon-leadership-principles&utm_content=principles-insist-on-the-highest-standards), in Grokking Modern Behavioral Interview
 - [Common mistakes](../guides/common-mistakes.md): how answers on this principle are weakened.
