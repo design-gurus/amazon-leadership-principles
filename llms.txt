@@ -1,0 +1,69 @@
+# Amazon Leadership Principles
+
+> All 16 principles with interview questions, sample answers, and how the Amazon loop works. A free guide from DesignGurus.io, in plain Markdown, with no account required.
+
+Each page is short and ends with links to full course lessons and free articles. Each description below is the opening sentence of that page.
+
+## Guides
+
+- [Common Mistakes in Amazon Behavioral Answers](https://github.com/design-gurus/amazon-leadership-principles/blob/main/guides/common-mistakes.md): Most weak answers fail for one of ten reasons.
+- [How the Amazon Loop Works](https://github.com/design-gurus/amazon-leadership-principles/blob/main/guides/how-the-amazon-loop-works.md): The loop is Amazon's name for the final interview stage, in which a candidate meets several interviewers in one day or across a few days.
+- [Amazon Leadership Principles: One-Page Cheat Sheet](https://github.com/design-gurus/amazon-leadership-principles/blob/main/guides/one-page-cheat-sheet.md): Use this page for a final review.
+- [Leadership Principles by Role](https://github.com/design-gurus/amazon-leadership-principles/blob/main/guides/principles-by-role.md): Every Amazon candidate is interviewed against the same 16 principles, but the emphasis and the expected size of the evidence change with the role and the level.
+- [Amazon Leadership Principles Question Bank](https://github.com/design-gurus/amazon-leadership-principles/blob/main/guides/question-bank.md): This page lists 96 behavioral questions, six for each of the 16 principles.
+- [The STAR Method](https://github.com/design-gurus/amazon-leadership-principles/blob/main/guides/star-method.md): STAR is a four-part structure for answering a behavioral question, which is a question about something the candidate actually did in the past.
+- [Building a Story Bank](https://github.com/design-gurus/amazon-leadership-principles/blob/main/guides/story-bank.md): A story bank is a prepared set of true stories from your own work, each one written in the STAR format and mapped to the principles it can support.
+
+## Principles
+
+- [Are Right, A Lot](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/are-right-a-lot.md): Are Right, A Lot means making sound decisions when the information is incomplete, and being able to explain the reasoning.
+- [Bias for Action](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/bias-for-action.md): Bias for Action means moving quickly and accepting a calculated risk when a decision can be reversed.
+- [Customer Obsession](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/customer-obsession.md): Customer Obsession means that work starts from the customer's problem and is judged by its effect on the customer.
+- [Deliver Results](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/deliver-results.md): Deliver Results means finishing the work that matters, on time and at the required quality, despite obstacles.
+- [Dive Deep](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/dive-deep.md): Dive Deep means staying connected to the details and checking them personally when a summary and the facts do not agree.
+- [Earn Trust](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/earn-trust.md): Earn Trust means being honest, listening carefully, and admitting one's own mistakes even when that is uncomfortable.
+- [Frugality](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/frugality.md): Frugality means achieving more with fewer resources.
+- [Have Backbone; Disagree and Commit](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/have-backbone-disagree-and-commit.md): Have Backbone; Disagree and Commit means challenging a decision respectfully when one disagrees with it, even when the other person is senior.
+- [Hire and Develop the Best](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/hire-and-develop-the-best.md): Hire and Develop the Best means raising the level of the team with every hire and helping other people grow.
+- [Insist on the Highest Standards](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/insist-on-the-highest-standards.md): Insist on the Highest Standards means holding work to a quality level that others may consider too demanding, and fixing defects at their source so that they do not pass to the next team.
+- [Invent and Simplify](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/invent-and-simplify.md): Invent and Simplify means finding a better way to do something and removing complexity that no longer justifies its cost.
+- [Learn and Be Curious](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/learn-and-be-curious.md): Learn and Be Curious means continuing to learn throughout a career and exploring ideas beyond the current assignment.
+- [Ownership](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/ownership.md): Ownership means acting on a problem because it affects the product or the company, even when the problem belongs to nobody or to another team.
+- [Strive to be Earth's Best Employer](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/strive-to-be-earths-best-employer.md): Strive to be Earth's Best Employer means making the working environment safer, more productive, and more inclusive, and caring about the growth of colleagues.
+- [Success and Scale Bring Broad Responsibility](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/success-and-scale-bring-broad-responsibility.md): Success and Scale Bring Broad Responsibility means considering the effect of one's work on people beyond the direct user, including communities, partners, and the environment.
+- [Think Big](https://github.com/design-gurus/amazon-leadership-principles/blob/main/principles/think-big.md): Think Big means proposing a direction that is larger than the immediate request and explaining why the larger version is worth the effort.
+
+## Related free guides
+
+- [Grokking System Design](https://github.com/design-gurus/grokking-system-design): 30 patterns, 59 question walkthroughs, 35 cheat sheets, and guides for 122 companies.
+- [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview): The 41 coding patterns and how to recognize each one in a new problem.
+- [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design): Building blocks and design questions for machine learning, LLM, and agent design rounds.
+- [Design Patterns](https://github.com/design-gurus/design-patterns): The 22 Gang of Four patterns and more than 60 system design patterns.
+- [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources): Courses, books, papers, and videos, sorted by level.
+- [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses): System design courses compared by format, depth, and level.
+- [System Design Numbers](https://github.com/design-gurus/system-design-numbers): Latency numbers, availability tables, traffic formulas, and ten worked capacity estimations.
+- [API Design Interview](https://github.com/design-gurus/api-design-interview): A six-step method for the API design round, the core concepts, and eight question walkthroughs.
+- [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview): The client side of system design: rendering, state, caching, performance, and eight question walkthroughs.
+- [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview): System design for iOS and Android engineers: offline sync, caching, push, performance, and eight question walkthroughs.
+- [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions): About 100 questions with short model answers, from service boundaries to sagas and migration.
+- [Concurrency Interview](https://github.com/design-gurus/concurrency-interview): Core concepts and nine classic problems solved in Java, Python, and Go.
+- [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview): The loop round by round: troubleshooting, Linux and networking, SRE system design, and incident response.
+- [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview): SQL, data modeling, and pipeline design rounds, with six pipeline design walkthroughs.
+- [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview): The forward deployed engineer loop, the decomposition round, and the loops at five companies.
+- [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview): Architecture design, customer discovery, and presentation rounds, with loops at five cloud and data companies.
+- [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview): What changes at staff level: the loop, system design at staff scope, the project deep dive, and down-leveling.
+- [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview): The manager loop round by round: people management, project retrospective, behavioral, and system design for managers.
+- [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels): Engineering ladders at 17 companies, how levels map across them, and what interviews expect at each level.
+- [Google Interview Guide](https://github.com/design-gurus/google-interview-guide): The whole Google loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide): The whole Meta loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide): The whole Amazon loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide): The whole OpenAI loop: process, coding, system design, behavioral, levels, and a question bank.
+
+## Optional
+
+The paid course this guide accompanies, for full lessons and worked solutions.
+
+- [Course on DesignGurus.io](https://www.designgurus.io/course/grokking-behavioral-interview): The course linked throughout this guide.
